@@ -1,0 +1,11 @@
+task,prior_set,parameter_ranges,r_lambda,r_tau,share_lambda_at_lower_bound
+detect,default,"alpha .1-.4, beta_base 4-10, lam .5-1.2, tau 10-80",0.35,0.11,0.07
+detect,strong_fast_gate,"alpha .1-.4, beta_base 6-12, lam 1.0-1.5, tau 10-30",0.25,0.39,0.00
+detect,slow_gate,"alpha .1-.4, beta_base 4-10, lam .5-1.2, tau 100-250",0.02,0.31,0.23
+detect,slow_learning,"alpha .03-.12, beta_base 4-10, lam .5-1.2, tau 10-80",0.24,0.25,0.12
+detect,low_beta,"alpha .1-.4, beta_base 1.5-4, lam .5-1.2, tau 10-80",0.01,0.15,0.17
+50,default,"alpha .1-.4, beta_base 4-10, lam .5-1.2, tau 10-80",0.38,0.23,0.12
+50,strong_fast_gate,"alpha .1-.4, beta_base 6-12, lam 1.0-1.5, tau 10-30",-0.24,0.25,0.05
+50,slow_gate,"alpha .1-.4, beta_base 4-10, lam .5-1.2, tau 100-250",0.14,-0.02,0.15
+50,slow_learning,"alpha .03-.12, beta_base 4-10, lam .5-1.2, tau 10-80",0.57,0.22,0.05
+50,low_beta,"alpha .1-.4, beta_base 1.5-4, lam .5-1.2, tau 10-80",0.12,0.08,0.10

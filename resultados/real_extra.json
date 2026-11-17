@@ -1,0 +1,722 @@
+{
+ "primary": {
+  "n_mice": 27,
+  "n_sessions": 239,
+  "n_trials": 64182,
+  "mean_hit": 0.4232682038985039,
+  "mean_fa": 0.1693597302898205,
+  "mice": [
+   {
+    "mouse": 403491,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 0.41942304678036635,
+    "gain_ph_over_q_nats": 3.4075536426987583,
+    "lam": 0.0,
+    "tau": 163.85771372544036,
+    "beta_base": 1.4409586319019179,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 435431,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 1.3664949090423306,
+    "gain_ph_over_q_nats": 2.0739875018809926,
+    "lam": 0.0,
+    "tau": 83.0985064158182,
+    "beta_base": 1.1732212685330345,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 436662,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.4637882243191598,
+    "gain_ph_over_q_nats": 2.0809704049245283,
+    "lam": 1.5,
+    "tau": 45.013383244078845,
+    "beta_base": 0.7690737726729022,
+    "alpha": 0.28420514388372836,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 453988,
+    "n_sessions": 3,
+    "gain_dma_over_q_nats": 0.015193902452324437,
+    "gain_ph_over_q_nats": 1.3057945425118191,
+    "lam": 0.0,
+    "tau": 163.84146415855488,
+    "beta_base": 0.2,
+    "alpha": 0.25947482190073323,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 453989,
+    "n_sessions": 9,
+    "gain_dma_over_q_nats": 0.1640899924036603,
+    "gain_ph_over_q_nats": 26.859550273073864,
+    "lam": 0.0,
+    "tau": 163.85308257096628,
+    "beta_base": 2.457802307114816,
+    "alpha": 0.056465979589257725,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 453990,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 1.1745737474807356,
+    "gain_ph_over_q_nats": 10.685923049069743,
+    "lam": 0.0,
+    "tau": 121.26140282390729,
+    "beta_base": 1.58314497650227,
+    "alpha": 0.31970879514406225,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 457841,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 0.10779215925549579,
+    "gain_ph_over_q_nats": 0.10960982666642849,
+    "lam": 0.0,
+    "tau": 45.22999360993949,
+    "beta_base": 0.2,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 459773,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.573140141902968,
+    "gain_ph_over_q_nats": 5.037442582418407,
+    "lam": 0.0,
+    "tau": 163.8596380945884,
+    "beta_base": 0.9702434242733357,
+    "alpha": 0.36037197521665,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 459777,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.21458040455945593,
+    "gain_ph_over_q_nats": 2.915602424480994,
+    "lam": 0.0,
+    "tau": 163.89604092495364,
+    "beta_base": 0.923158189353876,
+    "alpha": 0.18773246591073034,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 467953,
+    "n_sessions": 6,
+    "gain_dma_over_q_nats": 0.49018262928939293,
+    "gain_ph_over_q_nats": 4.506118554500517,
+    "lam": 0.0,
+    "tau": 59.509705187031145,
+    "beta_base": 1.5777526208055648,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 476970,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 2.148277001229417,
+    "gain_ph_over_q_nats": 28.66131253147114,
+    "lam": 0.0,
+    "tau": 109.42643484035662,
+    "beta_base": 2.0582592540915656,
+    "alpha": 0.6162487325782514,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 477202,
+    "n_sessions": 3,
+    "gain_dma_over_q_nats": 0.0687979262978331,
+    "gain_ph_over_q_nats": 0.00018554821562588586,
+    "lam": 0.0,
+    "tau": 245.37377352380312,
+    "beta_base": 1.4314013968832515,
+    "alpha": 0.28263718503156776,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 479839,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.11024732071541621,
+    "gain_ph_over_q_nats": 0.1492278036892003,
+    "lam": 0.0,
+    "tau": 163.87322957838305,
+    "beta_base": 0.45835293172357755,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 486737,
+    "n_sessions": 3,
+    "gain_dma_over_q_nats": 0.026411811097773352,
+    "gain_ph_over_q_nats": 0.14671594639548857,
+    "lam": 0.0,
+    "tau": 163.83515600916684,
+    "beta_base": 0.2,
+    "alpha": 0.24650018374043267,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 489056,
+    "n_sessions": 5,
+    "gain_dma_over_q_nats": 2.55576967459308,
+    "gain_ph_over_q_nats": 98.28193512514883,
+    "lam": 0.0,
+    "tau": 110.51370250355714,
+    "beta_base": 7.564102272744243,
+    "alpha": 0.19893092606474633,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 489065,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 0.11050199552846607,
+    "gain_ph_over_q_nats": 1.067164444770924,
+    "lam": 0.0,
+    "tau": 163.8677968738219,
+    "beta_base": 0.2,
+    "alpha": 0.6378521778803137,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 523922,
+    "n_sessions": 9,
+    "gain_dma_over_q_nats": 0.08168769742974291,
+    "gain_ph_over_q_nats": 0.9645222143146839,
+    "lam": 0.0,
+    "tau": 163.84911810904845,
+    "beta_base": 0.2,
+    "alpha": 0.20217556415673954,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 524158,
+    "n_sessions": 9,
+    "gain_dma_over_q_nats": 0.24925471577944336,
+    "gain_ph_over_q_nats": 1.4635581185509636,
+    "lam": 0.0,
+    "tau": 163.85260126344613,
+    "beta_base": 0.2,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 541329,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.8800716437854135,
+    "gain_ph_over_q_nats": 4.194552892413412,
+    "lam": 0.0,
+    "tau": 245.34081531274165,
+    "beta_base": 1.9200038381527011,
+    "alpha": 0.08789258440565073,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 544965,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.3002164523038573,
+    "gain_ph_over_q_nats": 1.6887055503268584,
+    "lam": 0.0,
+    "tau": 163.8404183513802,
+    "beta_base": 0.3671577502474539,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 546605,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.1473416002140766,
+    "gain_ph_over_q_nats": 1.4958381037486106,
+    "lam": 0.0,
+    "tau": 163.8330677996616,
+    "beta_base": 0.2,
+    "alpha": 0.37269282247995034,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 547486,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 0.20215032790349596,
+    "gain_ph_over_q_nats": 1.3283625844106837,
+    "lam": 0.0,
+    "tau": 163.85348064774166,
+    "beta_base": 1.626614250246635,
+    "alpha": 0.10625777556668176,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 554115,
+    "n_sessions": 6,
+    "gain_dma_over_q_nats": 0.15348256387301262,
+    "gain_ph_over_q_nats": 2.075609773228962,
+    "lam": 0.0,
+    "tau": 163.84932076954394,
+    "beta_base": 0.2,
+    "alpha": 0.45276886473795397,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 555970,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 0.06301221793091827,
+    "gain_ph_over_q_nats": 0.7297675840593456,
+    "lam": 0.0,
+    "tau": 163.9084744982377,
+    "beta_base": 0.2,
+    "alpha": 0.28160280731744053,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 561443,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 0.13717920209478507,
+    "gain_ph_over_q_nats": 3.542514672407833,
+    "lam": 0.0,
+    "tau": 163.8941975996375,
+    "beta_base": 0.3533245823079483,
+    "alpha": 0.16152403423382408,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 563231,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.4869769221209026,
+    "gain_ph_over_q_nats": 0.5125464615880446,
+    "lam": 0.0,
+    "tau": 245.32934448667567,
+    "beta_base": 1.272191391688144,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 563234,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.9036738943400451,
+    "gain_ph_over_q_nats": 4.396708414438308,
+    "lam": 0.0,
+    "tau": 163.8723419229539,
+    "beta_base": 1.8843198011456688,
+    "alpha": 0.1667817760659797,
+    "at_bound": [
+     "lam"
+    ]
+   }
+  ]
+ },
+ "engaged": {
+  "n_mice": 27,
+  "n_sessions": 228,
+  "n_trials": 60211,
+  "mean_hit": 0.4410697390566797,
+  "mean_fa": 0.17612284556538166,
+  "mice": [
+   {
+    "mouse": 403491,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 0.41942304678036635,
+    "gain_ph_over_q_nats": 3.4075536426987583,
+    "lam": 0.0,
+    "tau": 163.85771372544036,
+    "beta_base": 1.4409586319019179,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 435431,
+    "n_sessions": 6,
+    "gain_dma_over_q_nats": 0.3472308152881851,
+    "gain_ph_over_q_nats": 0.9608187935117485,
+    "lam": 0.0,
+    "tau": 20.553580668308474,
+    "beta_base": 0.2,
+    "alpha": 0.38556428180200647,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 436662,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.4637882243191598,
+    "gain_ph_over_q_nats": 2.0809704049245283,
+    "lam": 1.5,
+    "tau": 45.013383244078845,
+    "beta_base": 0.7690737726729022,
+    "alpha": 0.28420514388372836,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 453988,
+    "n_sessions": 3,
+    "gain_dma_over_q_nats": 0.015193902452324437,
+    "gain_ph_over_q_nats": 1.3057945425118191,
+    "lam": 0.0,
+    "tau": 163.84146415855488,
+    "beta_base": 0.2,
+    "alpha": 0.25947482190073323,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 453989,
+    "n_sessions": 9,
+    "gain_dma_over_q_nats": 0.1640899924036603,
+    "gain_ph_over_q_nats": 26.859550273073864,
+    "lam": 0.0,
+    "tau": 163.85308257096628,
+    "beta_base": 2.457802307114816,
+    "alpha": 0.056465979589257725,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 453990,
+    "n_sessions": 4,
+    "gain_dma_over_q_nats": 0.8187797337241136,
+    "gain_ph_over_q_nats": 3.1098911923359083,
+    "lam": 0.0,
+    "tau": 127.33642681908178,
+    "beta_base": 2.6573112115301725,
+    "alpha": 0.21466113457405095,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 457841,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 0.10779215925549579,
+    "gain_ph_over_q_nats": 0.10960982666642849,
+    "lam": 0.0,
+    "tau": 45.22999360993949,
+    "beta_base": 0.2,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 459773,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.573140141902968,
+    "gain_ph_over_q_nats": 5.037442582418407,
+    "lam": 0.0,
+    "tau": 163.8596380945884,
+    "beta_base": 0.9702434242733357,
+    "alpha": 0.36037197521665,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 459777,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.21458040455945593,
+    "gain_ph_over_q_nats": 2.915602424480994,
+    "lam": 0.0,
+    "tau": 163.89604092495364,
+    "beta_base": 0.923158189353876,
+    "alpha": 0.18773246591073034,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 467953,
+    "n_sessions": 6,
+    "gain_dma_over_q_nats": 0.49018262928939293,
+    "gain_ph_over_q_nats": 4.506118554500517,
+    "lam": 0.0,
+    "tau": 59.509705187031145,
+    "beta_base": 1.5777526208055648,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 476970,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.18326580132202253,
+    "gain_ph_over_q_nats": 1.250824079890208,
+    "lam": 0.0,
+    "tau": 163.85155279262943,
+    "beta_base": 0.2,
+    "alpha": 0.8851256298025229,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 477202,
+    "n_sessions": 3,
+    "gain_dma_over_q_nats": 0.0687979262978331,
+    "gain_ph_over_q_nats": 0.00018554821562588586,
+    "lam": 0.0,
+    "tau": 245.37377352380312,
+    "beta_base": 1.4314013968832515,
+    "alpha": 0.28263718503156776,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 479839,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.11024732071541621,
+    "gain_ph_over_q_nats": 0.1492278036892003,
+    "lam": 0.0,
+    "tau": 163.87322957838305,
+    "beta_base": 0.45835293172357755,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 486737,
+    "n_sessions": 3,
+    "gain_dma_over_q_nats": 0.026411811097773352,
+    "gain_ph_over_q_nats": 0.14671594639548857,
+    "lam": 0.0,
+    "tau": 163.83515600916684,
+    "beta_base": 0.2,
+    "alpha": 0.24650018374043267,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 489056,
+    "n_sessions": 4,
+    "gain_dma_over_q_nats": 0.011010040970120372,
+    "gain_ph_over_q_nats": 0.8847138025399204,
+    "lam": 0.0,
+    "tau": 245.38354444945617,
+    "beta_base": 2.214039130302321,
+    "alpha": 0.4918228093436627,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 489065,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 0.11050199552846607,
+    "gain_ph_over_q_nats": 1.067164444770924,
+    "lam": 0.0,
+    "tau": 163.8677968738219,
+    "beta_base": 0.2,
+    "alpha": 0.6378521778803137,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 523922,
+    "n_sessions": 9,
+    "gain_dma_over_q_nats": 0.08168769742974291,
+    "gain_ph_over_q_nats": 0.9645222143146839,
+    "lam": 0.0,
+    "tau": 163.84911810904845,
+    "beta_base": 0.2,
+    "alpha": 0.20217556415673954,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 524158,
+    "n_sessions": 9,
+    "gain_dma_over_q_nats": 0.24925471577944336,
+    "gain_ph_over_q_nats": 1.4635581185509636,
+    "lam": 0.0,
+    "tau": 163.85260126344613,
+    "beta_base": 0.2,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 541329,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.8800716437854135,
+    "gain_ph_over_q_nats": 4.194552892413412,
+    "lam": 0.0,
+    "tau": 245.34081531274165,
+    "beta_base": 1.9200038381527011,
+    "alpha": 0.08789258440565073,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 544965,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.3002164523038573,
+    "gain_ph_over_q_nats": 1.6887055503268584,
+    "lam": 0.0,
+    "tau": 163.8404183513802,
+    "beta_base": 0.3671577502474539,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 546605,
+    "n_sessions": 10,
+    "gain_dma_over_q_nats": 0.1473416002140766,
+    "gain_ph_over_q_nats": 1.4958381037486106,
+    "lam": 0.0,
+    "tau": 163.8330677996616,
+    "beta_base": 0.2,
+    "alpha": 0.37269282247995034,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 547486,
+    "n_sessions": 7,
+    "gain_dma_over_q_nats": 0.20215032790349596,
+    "gain_ph_over_q_nats": 1.3283625844106837,
+    "lam": 0.0,
+    "tau": 163.85348064774166,
+    "beta_base": 1.626614250246635,
+    "alpha": 0.10625777556668176,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 554115,
+    "n_sessions": 6,
+    "gain_dma_over_q_nats": 0.15348256387301262,
+    "gain_ph_over_q_nats": 2.075609773228962,
+    "lam": 0.0,
+    "tau": 163.84932076954394,
+    "beta_base": 0.2,
+    "alpha": 0.45276886473795397,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 555970,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 0.06301221793091827,
+    "gain_ph_over_q_nats": 0.7297675840593456,
+    "lam": 0.0,
+    "tau": 163.9084744982377,
+    "beta_base": 0.2,
+    "alpha": 0.28160280731744053,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 561443,
+    "n_sessions": 11,
+    "gain_dma_over_q_nats": 0.13717920209478507,
+    "gain_ph_over_q_nats": 3.542514672407833,
+    "lam": 0.0,
+    "tau": 163.8941975996375,
+    "beta_base": 0.3533245823079483,
+    "alpha": 0.16152403423382408,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 563231,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.4869769221209026,
+    "gain_ph_over_q_nats": 0.5125464615880446,
+    "lam": 0.0,
+    "tau": 245.32934448667567,
+    "beta_base": 1.272191391688144,
+    "alpha": 0.9,
+    "at_bound": [
+     "lam"
+    ]
+   },
+   {
+    "mouse": 563234,
+    "n_sessions": 12,
+    "gain_dma_over_q_nats": 0.9036738943400451,
+    "gain_ph_over_q_nats": 4.396708414438308,
+    "lam": 0.0,
+    "tau": 163.8723419229539,
+    "beta_base": 1.8843198011456688,
+    "alpha": 0.1667817760659797,
+    "at_bound": [
+     "lam"
+    ]
+   }
+  ]
+ }
+}
